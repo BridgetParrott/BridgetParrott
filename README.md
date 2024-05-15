@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Bridget👋
 
 <!--
 **BridgetParrott/BridgetParrott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Contacto
+
+Puedes encontrarme en LinkedIn:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/bridget-parrott-b9004823b/)
